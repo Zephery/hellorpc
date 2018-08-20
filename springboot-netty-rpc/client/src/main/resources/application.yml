@@ -1,0 +1,4 @@
+server:
+  port: 8082
+etcd:
+  endpoint: http://47.95.10.139:2379
