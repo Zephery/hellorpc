@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+springboot-netty-rpc/client/src/test/
+springboot-netty-rpc/client/target/
+springboot-netty-rpc/common/target/
+springboot-netty-rpc/server/src/test/
+springboot-netty-rpc/server/target/
+src/test/
+target/
